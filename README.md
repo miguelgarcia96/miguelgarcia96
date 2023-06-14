@@ -38,6 +38,6 @@ Outside of [GitHub](https://github.com/miguelgarcia96/), You can **find me** her
 
 <p >  
   <a href="https://www.linkedin.com/in/miguelgarcia96/">
-     <img src="https://img.shields.io/badge/-Miguel Garcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelgarcia96/" />
+     <img src="https://img.shields.io/badge/-Miguel Garcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelgarcia96" />
  </a>
 </p>
