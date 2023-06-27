@@ -34,7 +34,7 @@
 
 ####
 
-Outside of [GitHub](https://github.com/miguelgarcia96/), You can **find me** here:**
+Outside of [GitHub](https://github.com/miguelgarcia96/), You can **find me** here:
 
 <p >  
   <a href="https://www.linkedin.com/in/miguelgarcia96/">
